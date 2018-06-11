@@ -6,7 +6,7 @@
 using namespace std;
 
 #include "addMATR.h"
-#include "FuncMatr.cpp"
+//#include "FuncMatr.cpp"
 
 int main() {
 
