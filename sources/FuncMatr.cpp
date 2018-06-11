@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <initializer_list>
 
-hjbvr
+
 template <typename type, size_t i, size_t j>
 Matrix<type, i, j>::Matrix() : ptr(nullptr) {
 }
