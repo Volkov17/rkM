@@ -1,12 +1,6 @@
-#include <iostream>
-#include <fstream>
-#include <cstdlib>
-#include <initializer_list>
-
-using namespace std;
 
 #include "addMATR.hpp"
-//#include "FuncMatr.cpp"
+
 
 int main() {
 
